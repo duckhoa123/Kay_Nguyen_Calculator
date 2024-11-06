@@ -1,0 +1,22 @@
+[
+  {
+    "ContainingType": "Calculator.Controllers.CalculatorController",
+    "Method": "CalculateJson",
+    "RelativePath": "calculate/json",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Calculator.Controllers.CalculatorController",
+    "Method": "CalculateXml",
+    "RelativePath": "calculate/xml",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
