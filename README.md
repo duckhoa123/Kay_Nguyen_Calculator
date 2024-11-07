@@ -1,7 +1,7 @@
 # Kay_Nguyen_Calculator
 # Kay Nguyen 
 ## Approach
-- For this exercise, I implemented the requested basic RESTful web service for a calculator supporting four primary operations (+, -, *, /) using `.NET` with `C#` language. I designed the service to take two numerical arguments and return the result of the specified operation. Additionally, I anticipated scenarios where nested operations might be beneficial for users needing more complex calculations. To accommodate this, I developed an advanced function that allows the service to handle nested operations, giving it a more versatile and extensible functionality. This approach ensures that the calculator is both simple for basic calculations and robust enough to manage more advanced operations if required in the future.
+- For this exercise, I implemented the requested basic RESTful web service for a calculator supporting four primary operations (+, -, *, /) using `.NET` with `C#` language. I designed the service to take two numerical arguments and return the result of the specified operation. Additionally, I anticipated scenarios where nested operations might be beneficial for users needing more complex calculations. To accommodate this, I developed advanced function that allows the service to handle nested operations, giving it a more versatile and extensible functionality. This approach ensures that the calculator is both simple for basic calculations and robust enough to manage more advanced operations if required in the future.
 
 - The API is able to handle `JSON` and `XML` format.
 
@@ -84,17 +84,14 @@
 - Step 5: Under __Test Explorer__ Click __Run__ Button 
     ![Click Run Test](image-5.png)
 
-# Implementation 
 
-
-## Design Pattern
-
-- Design pattern 
+## Design Pattern 
+- For maintainability, scalability and reusability, design patterns 
 
     1. __Template Design Pattern__ 
     2.  __Visitor Design Pattern__ 
 
-was chosen to support the implementation of the project.
+were chosen to support the implementation of the project.
 
 ### 1. Template Design Pattern
 
